@@ -34,7 +34,7 @@ An AI-powered personal fitness tracker with:
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+![SajjadAir GitHub Stats](https://github-readme-stats.vercel.app/api?username=SajjadAir&show_icons=true&theme=tokyonight)
 
 ## 🤝 Let's Collaborate!
 
