@@ -40,10 +40,9 @@ An AI-powered personal fitness tracker with:
 
 I'm open to freelance work, collaborations, or full-time roles. If you’re looking for a Flutter expert to bring your app idea to life, feel free to connect.
 
-- 📫 Email: your.email@example.com  
+- 📫 Email: sajjad223631@gmail.com  
 - 🌐 Portfolio: [yourportfolio.dev](https://yourportfolio.dev)  
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)  
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- 💼 LinkedIn: [www.linkedin.com/in/sajjad-hussain-043506346](https://linkedin.com/in/yourprofile)
 
 ---
 
