@@ -42,7 +42,7 @@ I'm open to freelance work, collaborations, or full-time roles. If you’re look
 
 - 📫 Email: sajjad223631@gmail.com  
 - 🌐 Portfolio: [yourportfolio.dev](https://yourportfolio.dev)  
-- 💼 LinkedIn: [www.linkedin.com/in/sajjad-hussain-043506346](https://linkedin.com/in/yourprofile)
+- 💼 LinkedIn: [www.linkedin.com/in/sajjad-hussain-043506346](www.linkedin.com/in/sajjad-hussain-043506346)
 
 ---
 
