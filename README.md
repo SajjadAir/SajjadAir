@@ -20,6 +20,7 @@ I build high-performance, beautiful, and responsive mobile apps using **Flutter 
 | **Design**      | Figma, Adobe XD, Flutter DevTools  |
 | **Database**    | Hive, SQLite, Firebase Firestore   |
 | **Tools**       | Git, Android Studio, VS Code       |
+| **Backend**     | Node.js, Firebase, Supabase       |
 
 ## 📱 Featured Project: `MyFitApp`
 
@@ -41,7 +42,7 @@ An AI-powered personal fitness tracker with:
 I'm open to freelance work, collaborations, or full-time roles. If you’re looking for a Flutter expert to bring your app idea to life, feel free to connect.
 
 - 📫 Email: sajjad223631@gmail.com  
-- 🌐 Portfolio: [yourportfolio.dev](https://yourportfolio.dev)  
+- 🌐 Portfolio: [yourportfolio.dev](ht[tps://yourportfolio.dev](https://sajjadall-production.up.railway.app/))  
 - 💼 LinkedIn: [www.linkedin.com/in/sajjad-hussain-043506346](www.linkedin.com/in/sajjad-hussain-043506346)
 
 ---
