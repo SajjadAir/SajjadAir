@@ -1,4 +1,4 @@
-# 👋 Hi, I'm MUhammad Sajjad – Flutter Mobile Application Developer
+# 👋 Hi, I'm Muhammad Sajjad – Flutter Mobile Application Developer
 
 I build high-performance, beautiful, and responsive mobile apps using **Flutter & Dart**. I’m passionate about crafting seamless cross-platform experiences that work on both Android and iOS.
 
